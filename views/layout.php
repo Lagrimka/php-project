@@ -4,7 +4,7 @@
 	<meta charset="UTF-8">
 	<title>PHP project</title>
         <link rel="stylesheet" href="css/style.css">
-        <script src="js/script.js">
+        <script src="js/script.js"></script>
 </head>
 <body>
     <div class="container">

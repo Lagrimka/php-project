@@ -1,5 +1,10 @@
 <?php
 
-echo "Hello, world!<br>";
+// подключение приложения
+require 'app.php';
 
-echo "Hello, Olesya!";
+// работа с логикой
+$content = 'some content';
+
+// отображение результата
+include 'views/layout.php';

@@ -4,7 +4,7 @@
 require 'app.php';
 
 // работа с логикой
-$content = 'some content';
+$content = "Текущая страница $page";
 
 // отображение результата
 include 'views/layout.php';

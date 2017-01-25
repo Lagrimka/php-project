@@ -4,10 +4,11 @@
 	<meta charset="UTF-8">
 	<title>PHP project</title>
         <link rel="stylesheet" href="css/style.css">
+        <script src="js/script.js">
 </head>
 <body>
     <div class="container">
-	<?= $content; ?>
+	<?include $template; ?>
     </div>
 </body>
 </html>
